@@ -1,4 +1,4 @@
-package br.com.bossini.usjt_ads3anmca_helpdesk;
+package com.example.helpdesktest;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
